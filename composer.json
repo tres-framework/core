@@ -1,0 +1,16 @@
+{
+    "name": "tresframework/core",
+    "description": "The core of Tres Framework.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ped zed",
+            "email": "ped@tresframework.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "ext-openssl": "*",
+        "ext-mcrypt": "*"
+    }
+}
